@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\TelerikGame\obj\Debug\UnityVS.TelerikGame.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TelerikGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Desktop\TelerikGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\user\Desktop\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\New folder (2)\TelerikGame\obj\Debug\UnityVS.TelerikGame.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\TelerikGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\user\Desktop\New folder (2)\TelerikGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
